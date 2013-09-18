@@ -1,0 +1,10 @@
+SCRIBE: ENCODING
+================
+
+Description:
+	This package provides a simple means display encoding and
+	convert a file from a wide array of encoding to UTF-8
+
+Usage:
+	- The plethora of options can be found under the
+	  "Scribe Inc." > "Encoding" menu item.

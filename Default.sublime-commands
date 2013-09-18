@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Show File Encoding",
+        "command": "show_file_encoding"
+    }
+]
