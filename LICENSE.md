@@ -4,6 +4,7 @@
 # GNU General Public License
 
 **Copyright (c) 2014 Scribe Inc <systems@scribenet.com>**
+
 **Copyright (c) 2012 Tito Bouzout <tito.bouzout@gmail.com>**
 
 This license apply to all the files inside this program unless noted
