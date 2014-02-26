@@ -1,7 +1,10 @@
-"None are so hopelessly enslaved as those who falsely believe they are free."
-                                              Johann Wolfgang von Goethe
+> "None are so hopelessly enslaved as those who falsely believe they are free."
+> -Johann Wolfgang von Goethe
 
-Copyright (C) 2012 Tito Bouzout <tito.bouzout@gmail.com>
+# GNU General Public License
+
+**Copyright (c) 2014 Scribe Inc <systems@scribenet.com>**
+**Copyright (c) 2012 Tito Bouzout <tito.bouzout@gmail.com>**
 
 This license apply to all the files inside this program unless noted
 different for some files or portions of code inside these files.
