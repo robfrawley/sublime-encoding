@@ -1,11 +1,6 @@
-> "None are so hopelessly enslaved as those who falsely believe they are free."
-> -Johann Wolfgang von Goethe
-
 # GNU General Public License
 
-**Copyright (c) 2014 Scribe Inc <systems@scribenet.com>**
-
-**Copyright (c) 2012 Tito Bouzout <tito.bouzout@gmail.com>**
+**Copyright (c) 2014 Scribe Inc <systems@scribenet.com>, Copyright (c) 2012 Tito Bouzout <tito.bouzout@gmail.com>**
 
 This license apply to all the files inside this program unless noted
 different for some files or portions of code inside these files.
@@ -21,3 +16,6 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program. If not, see http://www.gnu.org/licenses/gpl.html
+
+> "None are so hopelessly enslaved as those who falsely believe they are free."
+> -Johann Wolfgang von Goethe
